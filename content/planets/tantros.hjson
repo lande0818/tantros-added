@@ -7,12 +7,10 @@ orbitSpin: 0.01
 localizedName: Tantros
 generator: planet
 sectorSize: 2
-radius: 1.1
-sectorCount: 282
+sectorSize: 2
+sectorCount: 92
 accessible: true
 startSector: 0
-
-iconColor: 3471eb
 
 mesh: [
 {
@@ -62,7 +60,4 @@ alwaysUnlocked: true
 defaultCore: core-origin
 clearSectorOnLose: true
 allowLaunchToNumbered: true
-iconColor: 66FF00
-itemWhitelist: [
-  iron, cadmium, coal, steel, sand, silicon
-]
+iconColor: 3471eb
