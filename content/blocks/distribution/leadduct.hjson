@@ -1,5 +1,6 @@
 type: Duct
-name: Lead Duct
+name: leadduct
+localizedName: Lead Duct
 description: Transport items
 category: distribution
 
