@@ -1,3 +1,3 @@
 # Tantros added
-#### A mindustry mod that re-adds Tantros with custom sectors
-## Creators: LP0818, EliteDangerGamer
+## Authors: LP0818, EliteDangerGamer
+A mindustry mod that re-adds Tantros with custom sectors
