@@ -1,6 +1,6 @@
 type: Radar
 size: 1
-scaledHealth: 7000
+scaledHealth: 50
 name: Heat radar
 description: Heats up in a circle, so you wont freeze
 category: effect
