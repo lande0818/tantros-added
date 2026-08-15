@@ -1,0 +1,8 @@
+name: "tantros-added"
+displayName: "Tantros Added"
+author: LP0818, EliteDangerGamer
+description: "Re-adds tantros"
+version: "1.0"
+minGameVersion: "159.7"
+dependencies: [ ]
+hidden: false
