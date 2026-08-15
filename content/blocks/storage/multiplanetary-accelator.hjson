@@ -7,7 +7,9 @@ itemCapacity: 10000
 category: effect
 research: core-nucleus
 
-launchCandidates: tantros
+launchCandidates: [
+  tantros
+]
 
 requirements: [
   copper/1000
