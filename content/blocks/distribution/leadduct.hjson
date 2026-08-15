@@ -1,4 +1,4 @@
-type: Duct
+type: Conveyor
 name: leadduct
 localizedName: Lead Duct
 description: Transport items
