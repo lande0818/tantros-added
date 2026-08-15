@@ -11,6 +11,9 @@ radius: 1.1
 sectorCount: 282
 accessible: true
 startSector: 0
+
+iconColor: 3471eb
+
 mesh: [
 {
   type: HexMesh
