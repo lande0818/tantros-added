@@ -1,1 +1,16 @@
-
+type: Accelerator
+size: 7
+scaledHealth: 7000
+name: Multiplanetary Accelator
+description: Lets you launch to Tantros
+itemCapacity: 10000
+category: effect
+research: core-nucleus
+requirements: [
+  copper/1000
+  lead/1000
+  silicon/1000
+  metaglass/1000
+]
+squareSprite: false
+researchCostMultiplier: 0.75
