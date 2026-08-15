@@ -6,6 +6,10 @@ description: Lets you launch to Tantros
 itemCapacity: 10000
 category: effect
 research: core-nucleus
+
+# add tantros to this once i add the planet
+launchCandidates:
+
 requirements: [
   copper/1000
   lead/1000

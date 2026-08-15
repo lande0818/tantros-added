@@ -1,0 +1,65 @@
+name: tantros
+parent: "sun"
+orbitRadius: 70       
+orbitVelocity: 0.04    
+orbitAngle: 30            
+orbitSpin: 0.01 
+localizedName: Tantros
+generator: planet
+sectorSize: 2
+radius: 1.1
+sectorCount: 282
+accessible: true
+startSector: 0
+mesh: [
+{
+  type: HexMesh
+  planet: tantros
+  seed: 789124
+  divisions: 4
+  color1: 3999ff
+  color2: 72b6ff
+  radius: 1.229
+  octaves: 2
+  persistence: 0.8
+  scale: 1.5
+  mag: 0.5
+}
+{
+  type: HexMesh
+  planet: tbd
+  divisions: 5
+  seed: 7
+  radius: 1.229
+  color1: B3DBE9
+  color2: DEF4FC
+  octaves: 4
+  persistence: 1.1
+  scale: 1.5   
+  mag: 0.8        
+  threshold: 0.2  
+}
+]
+
+cloudMesh: {
+  type: HexSkyMesh
+  seed: 54321
+  speed: 0.4
+  radius: 0.05
+  divisions: 4
+  color: ffffff
+  octaves: 2
+  persistence: 0.5
+  scl: 1
+  thresh: 0.4
+}
+atmosphereColor: 007bff
+atmosphereRadial: true
+alwaysUnlocked: true
+defaultCore: core-origin
+clearSectorOnLose: true
+allowLaunchToNumbered: true
+iconColor: 66FF00
+itemWhitelist: [
+  iron, cadmium, coal, steel, sand, silicon
+]
