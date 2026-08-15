@@ -4,10 +4,10 @@ description: Transport items
 category: distribution
 
 research: {
-  planet: tantros
-  root: false
-  name: tantros
-  requiresUnlock: true
+  parent: core-starter
+  requirements: [
+    copper/10
+  ]
 }
 
 speed: 10
