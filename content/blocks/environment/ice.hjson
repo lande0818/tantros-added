@@ -1,0 +1,5 @@
+type: Floor
+name: Ice Floor (water)
+variants: 1
+dragMultiplier: 0.1
+liquidDrop: water
