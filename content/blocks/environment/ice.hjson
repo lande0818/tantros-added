@@ -1,5 +1,6 @@
 type: Floor
-name: Ice Floor (water)
+name: ice
+localizedName: Ice Floor
 variants: 1
 dragMultiplier: 0.1
 liquidDrop: water
