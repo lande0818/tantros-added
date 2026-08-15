@@ -18,7 +18,7 @@ category: effect
 research: {
   planet: tantros
   root: true
-  name: Tantros
+  name: tantros
   requiresUnlock: false
 }
 thrusterLength: 0
