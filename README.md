@@ -1,2 +1,2 @@
-# tantros-added
-Mindustry tantros re-added omg 
+# Tantros added
+A mindustry mod that re-adds Tantros with custom sectors
