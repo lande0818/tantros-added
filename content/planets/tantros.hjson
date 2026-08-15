@@ -12,8 +12,6 @@ sectorCount: 282
 accessible: true
 startSector: 0
 
-iconColor: 3471eb
-
 mesh: [
 {
   type: HexMesh
@@ -62,7 +60,4 @@ alwaysUnlocked: true
 defaultCore: core-origin
 clearSectorOnLose: true
 allowLaunchToNumbered: true
-iconColor: 66FF00
-itemWhitelist: [
-  iron, cadmium, coal, steel, sand, silicon
-]
+iconColor: 3471eb
