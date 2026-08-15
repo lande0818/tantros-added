@@ -2,7 +2,13 @@ type: Duct
 name: Lead Duct
 description: Transport items
 category: distribution
-research: core-starter
+
+research: {
+  planet: tantros
+  root: false
+  name: tantros
+  requiresUnlock: true
+}
 
 speed: 10
 health: 45
