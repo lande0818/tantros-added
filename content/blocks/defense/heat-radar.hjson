@@ -1,0 +1,17 @@
+type: Radar
+size: 1
+scaledHealth: 7000
+name: Heat radar
+description: Heats up in a circle, so you wont freeze
+category: effect
+
+discoveryTime: 200
+
+baseRegion: heat-radar-base
+glowRegion: heat-radar-glow
+
+requirements: [
+  copper/50
+]
+squareSprite: false
+researchCostMultiplier: 0.5
