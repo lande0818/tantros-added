@@ -11,7 +11,7 @@ research: {
   ]
 }
 
-speed: 10
+speed: 0.2
 health: 45
 
 requirements: [
