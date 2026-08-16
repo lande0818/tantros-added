@@ -11,9 +11,7 @@ research: {
   ]
 }
 
-planet: {
-  tantros
-}
+planet: tantros
 
 speed: 0.2
 health: 45
