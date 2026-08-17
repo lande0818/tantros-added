@@ -6,9 +6,6 @@ category: distribution
 
 research: {
   parent: core-starter
-  requirements: [
-    copper/10
-  ]
 }
 
 planet: tantros
@@ -19,3 +16,4 @@ health: 45
 requirements: [
   copper/1
 ]
+researchCostMultiplier: 0.1
